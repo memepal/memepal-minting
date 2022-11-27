@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x503fCF75BDf9845577381F68263578ce4940e448",
+  "SCAN_LINK": "https://polygonscan.com/token/0x503fCF75BDf9845577381F68263578ce4940e448",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MEME.PAL",
+  "SYMBOL": "MP",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE":"Opensea",
+  "MARKETPLACE_LINK":"https://opensea.io/collection/meme-pal",
+  "SHOW_BACKGROUND": true
+}
